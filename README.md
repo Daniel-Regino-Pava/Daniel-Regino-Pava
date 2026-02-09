@@ -1,4 +1,4 @@
-![Image alt] (https://github.com/Daniel-Regino-Pava/Daniel-Regino-Pava/blob/main/QA_Engineer_LinkedIn_1200x627.png)
+![Image alt](https://github.com/Daniel-Regino-Pava/Daniel-Regino-Pava/blob/main/QA_Engineer_LinkedIn_1200x627.png)
 
 ## Hola Soy Daniel Regino Pava ✋🏽
 
@@ -9,19 +9,4 @@ enfocado en garantizar la calidad del software y mejorar la experiencia del usua
 
 ### 🚀 Actualmente:
 - Desarrollando habilidades en **automatización de pruebas**
-- Profundizando en **testing de APIs** y **bases de datos**
-
-<!--
-**Daniel-Regino-Pava/Daniel-Regino-Pava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Profundizando en **testing de APIs** y **bases de datos*
