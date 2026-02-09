@@ -9,10 +9,6 @@ enfocado en garantizar la calidad del software y mejorar la experiencia del usua
 - Desarrollando habilidades en **automatización de pruebas**
 - Profundizando en **testing de APIs** y **bases de datos**
 
-### 📊 Mis proyectos destacados:
-🔗 [Urban Routes - Testing Manual](./urban-routes-qa)  
-🔗 [Urban Lunch - API Testing](./urban-lunch-api)
-
 <!--
 **Daniel-Regino-Pava/Daniel-Regino-Pava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
