@@ -1,3 +1,5 @@
+![Image alt] (https://github.com/Daniel-Regino-Pava/Daniel-Regino-Pava/blob/main/QA_Engineer_LinkedIn_1200x627.png)
+
 ## Hola Soy Daniel Regino Pava ✋🏽
 
 QA Engineer | Manual & Automation Testing Specialist
